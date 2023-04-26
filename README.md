@@ -29,6 +29,7 @@ For example, if you want to generate a perfect maze of width 30 and height 20 yo
     ./generator/generator 30 20 perfect
 
 And the result will be:
+
 ![perfect maze 30x20](./pictures/30x20_perfect.png)
 
 And then to be able to generate an imperfect maze you have to run the program in the form:
