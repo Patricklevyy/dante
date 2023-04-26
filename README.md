@@ -62,4 +62,4 @@ So for the resolution of the labyrinth of width 30 and height 20 we get as resul
 
 ## Contact
 
-If you have any questions or comments, you can contact me at: gnanmienlie-patrick-levy.n-da@epitech.eu.
+If you have any questions or comments, you can contact us at: gnanmienlie-patrick-levy.n-da@epitech.eu or axel.petitjean@epitech.eu.
