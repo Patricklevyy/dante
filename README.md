@@ -58,7 +58,7 @@ In case you didn't call the file that contains the labirynthe maze.txt you just 
 
 So for the resolution of the labyrinth of width 30 and height 20 we get as result :
 
-![solver maze 30x20](./pictures/solve_maze.png)
+![solver maze 30x20](./pictures/solve_maze.png) 
 
 ## Contact
 
